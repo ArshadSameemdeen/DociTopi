@@ -1,0 +1,21 @@
+Make the text classification with SInhala catogory name instead of english (business, local, sports, ect)
+
+Make the name of the file saved in the dataset with time, so it wont be duplicated
+
+Evaluate other options for cousin similiarty, like to show why it is better than the others.
+
+find something i specially contributed to sinhala language that other's havent done
+
+Do text preprocessing before doing the model
+
+Sinhala language detection
+
+if no document is inserted error is coming, solve that
+
+Rank the best topic(now only getting a random topic(not ranked top one))
+
+one hot vector encoding, use word2vec
+fasttext sinhala embadding
+
+See what are the misclassifications and why they misclassifiy, use @1, @2,@3 for the result
+
